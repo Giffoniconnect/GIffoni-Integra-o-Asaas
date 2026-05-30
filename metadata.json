@@ -1,0 +1,6 @@
+{
+  "name": "Giffoni Connect | Integração ASAAS",
+  "description": "Painel fundacional autônomo e interativo para a futura central de pagamentos ASAAS da Giffoni Connect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
